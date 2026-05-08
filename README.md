@@ -160,7 +160,7 @@ prd-critic/
 
 ## Author
 
-Built by [Cho Chan Myei Oo](https://linkedin.com/in/chochanmyei) — AI Product Manager. I make tools for PMs that I wished existed when I was the only person reviewing my own PRDs.
+Built by [Cho Chan Myei Oo](https://linkedin.com/in/chochanmyei) — AI Product Manager.
 
 If you use it and have feedback — what worked, what was wrong, what persona you'd add — open an issue or message me on LinkedIn.
 
